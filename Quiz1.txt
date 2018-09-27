@@ -1,0 +1,35 @@
+#Que1
+Option - D(Class)
+Class is not a core data type, other three i.e lists, dictionary and tuples are core data try: 
+    
+#Que2
+Option - A(List)
+it is because - items are separated by commas 
+              - enclosed in square[] brackets
+
+#Que3
+Option - C(float(x))
+This function is used to convert any data type to a floating point number.
+
+#Que4
+Option - A(I only)
+a hash function takes a message of arbitrary length and generates a fixed length code.
+
+#Que5
+Option - D(ERROR)
+it is because it is not enclosed in parenthesis, if it has been [print(9//2)], output would be '4', as it is floor division
+
+#Que6
+Option - D(None of the above
+_rshift_() , operator is used to overload >> operator
+
+#Que7
+Option -  B(|)
+"|" operator is overloaded by or() function
+
+#Que8
+Option - C(Error)
+SYNTAX ERROR will occur
+1. i is not enclosed in parenthesis
+2. i++ is not used in python
+3. i+1 is not enclosed in parenthesis
